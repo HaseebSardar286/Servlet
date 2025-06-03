@@ -1,0 +1,3 @@
+RedirectionServlet.class
+com\mycompany\redirection\JakartaRestConfiguration.class
+com\mycompany\redirection\resources\JakartaEE10Resource.class
