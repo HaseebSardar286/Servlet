@@ -1,0 +1,4 @@
+NewServlet1.class
+com\mycompany\requesrdispatcher\JakartaRestConfiguration.class
+com\mycompany\requesrdispatcher\resources\JakartaEE10Resource.class
+NewServlet.class
