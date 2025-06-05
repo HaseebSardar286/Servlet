@@ -1,0 +1,6 @@
+ShowPersonServlet.class
+com\mycompany\addressbook\JakartaRestConfiguration.class
+PersonInfo.class
+com\mycompany\addressbook\resources\JakartaEE10Resource.class
+PersonDAO.class
+SearchPersonServlet.class
