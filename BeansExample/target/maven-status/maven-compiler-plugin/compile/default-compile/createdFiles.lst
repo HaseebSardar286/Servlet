@@ -1,0 +1,4 @@
+bean\CourseOutlineBean.class
+com\mycompany\beansexample\resources\JakartaEE10Resource.class
+com\mycompany\beansexample\JakartaRestConfiguration.class
+bean\CourseDAO.class
