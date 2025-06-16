@@ -1,0 +1,4 @@
+com\mycompany\addressbookproject\JakartaRestConfiguration.class
+beans\PersonDAO.class
+com\mycompany\addressbookproject\resources\JakartaEE10Resource.class
+beans\PersonInfo.class

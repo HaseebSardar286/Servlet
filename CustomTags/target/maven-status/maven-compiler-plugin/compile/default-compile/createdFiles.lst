@@ -1,0 +1,5 @@
+com\mycompany\customtags\JakartaRestConfiguration.class
+tagPackage\CourseTagHandler.class
+tagPackage\CourseDAO.class
+tagPackage\CourseOutlineBean.class
+com\mycompany\customtags\resources\JakartaEE10Resource.class

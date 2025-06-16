@@ -1,0 +1,5 @@
+beans\PersonDAO.class
+ControllerServlet.class
+beans\PersonInfo.class
+com\mycompany\addressbookusingmvc2\JakartaRestConfiguration.class
+com\mycompany\addressbookusingmvc2\resources\JakartaEE10Resource.class
